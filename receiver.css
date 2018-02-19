@@ -1,10 +1,20 @@
-
-    
-.splash {
-  background-image: url(http://lh3.googleusercontent.com/jH2eM7IBPavINW1fl-orKW6PaAwNpCqdeBVpsxqZokx9v4liS4ea74wLemlJq6WZEs4);
+background {
+  background: center no-repeat url(https://i.imgur.com/e1jIDTs.png);
 }
+
+.logo {
+  background-image: url(https://i.imgur.com/xtDgL59.png);
+}
+
+.progressBar {
+  background-color: rgb(118, 255, 3);
+}
+
+.splash {
+  background-image: url(https://i.imgur.com/XWzi19D.png);
+}
+
 .watermark {
-  background-image: url(http://lh3.googleusercontent.com/jH2eM7IBPavINW1fl-orKW6PaAwNpCqdeBVpsxqZokx9v4liS4ea74wLemlJq6WZEs4);
+  background-image: url(https://i.imgur.com/xtDgL59.png);
   background-size: 57px 57px;
 }
- 
