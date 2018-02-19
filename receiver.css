@@ -12,6 +12,7 @@ background {
 
 .splash {
   background-image: url(https://i.imgur.com/c8xgrjD.png);
+  background-size: 100%;
 }
 
 .watermark {
